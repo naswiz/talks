@@ -1,12 +1,5 @@
 # Anomaly detection using deep learning to measure quality of Large Datasets ​
 
-## Speakers:
-
-* Sridhar Alla
-* [Syed Nasar](https://conferences.oreilly.com/strata/strata-ca/public/schedule/speaker/184705)
-
-## Presented at [Strata Data San Fransisco, 2019](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72656)
-
 # Talk Overview: 
 
 > In this talk, we will look at Deep Learning Neural networks and various techniques we can use to detect anomalies in data. In order to derive value from data no matter what kind of ML algorithms and modeling techniques are implemented such as predictive analytics, clustering, bayesian belief networks, regression models, ultimately the effectiveness of the models depends directly on the features used which is again dependent on the input data sources consumed for the purpose. 
@@ -16,6 +9,12 @@ To solve this problem, we have implemented modules to define the properties of t
 
 > We will show some code using [CDSW](https://www.cloudera.com/products/data-science-and-engineering/data-science-workbench.html) notebook to show attendees how they can implement a similar strategy in their organizations.
 
+## Speakers:
+
+* Sridhar Alla
+* [Syed Nasar](https://conferences.oreilly.com/strata/strata-ca/public/schedule/speaker/184705)
+
+## Presented at [Strata Data San Fransisco, 2019](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72656)
 
 ### Strata Event:
 

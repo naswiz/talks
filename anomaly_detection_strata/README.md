@@ -3,7 +3,7 @@
 ## Speakers:
 
 * Sridhar Alla
-* Syed Nasar
+* [Syed Nasar](https://conferences.oreilly.com/strata/strata-ca/public/schedule/speaker/184705)
 
 ## Presented at [Strata Data San Fransisco, 2019](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72656)
 

@@ -19,4 +19,4 @@ To solve this problem, we have implemented modules to define the properties of t
 
 ### Strata Event:
 
-<img src="strata_poster.png" alt="strata-poster" width="500" height="300">
+<img src="strata_poster.png" href="http://www.example.com"  alt="strata-poster" width="500" height="300">

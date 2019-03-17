@@ -17,5 +17,6 @@ To solve this problem, we have implemented modules to define the properties of t
 > We will show some code using [CDSW](https://www.cloudera.com/products/data-science-and-engineering/data-science-workbench.html) notebook to show attendees how they can implement a similar strategy in their organizations.
 
 
-Strata Event:
-<img src="strata-poster.png" alt="strata-poster" width="500" height="300">
+### Strata Event:
+
+<img src="strata_poster.png" alt="strata-poster" width="500" height="300">

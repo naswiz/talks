@@ -2,11 +2,12 @@
 
 # Talk Overview: 
 
-• Machine Learning and Deep Learning on a scalable infrastructure
-• Comparative look - CPU vs CPU+GPU vs GPU
-• Challenges with distributing ML pipelines and algorithms
-• Frameworks that support distributed scaling
-• Spark/YARN on GPUs vs CPUs
+
+* Machine Learning and Deep Learning on a scalable infrastructure
+* Comparative look - CPU vs CPU+GPU vs GPU
+* Challenges with distributing ML pipelines and algorithms
+* Frameworks that support distributed scaling
+* Spark/YARN on GPUs vs CPUs
 
 ## Speakers:
 

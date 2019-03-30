@@ -13,7 +13,7 @@
 
 * [Syed Nasar (Cloudera)](https://conferences.oreilly.com/strata/strata-ca/public/schedule/speaker/184705)
 
-## Presented at [Strata Data, New York September 2018](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72656)
+## Presented at Strata Data, New York September 2018
 
 ### Strata Event
 

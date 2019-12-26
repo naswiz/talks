@@ -2,6 +2,7 @@
 Projects and presentation materials for various talks
 
 ## Talks
+- Strata 2018 - [Spark and Deep Learning frameworks with distributed workload](https://github.com/syednasar/talks/blob/master/spark-DL-distributed-workloads/README.md)
 - [Language Translation with Deep Learning using TensorFlow on FloydHub](https://github.com/syednasar/talks/tree/master/language-translation)
 - [Synthetic Dialog Generation with Deep Learning using TensorFlow](https://github.com/syednasar/talks/tree/master/synthetic-dialog)
 

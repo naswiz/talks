@@ -12,7 +12,7 @@ To solve this problem, we have implemented modules to define the properties of t
 ## Speakers:
 
 * Sridhar Alla (Comcast)
-* [Syed Nasar (Cloudera)](https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/184705)
+* [Syed Nasar (Cloudera)](https://conferences.oreilly.com/strata/strata-ca-2019/public/schedule/speaker/184705)
 
 ## Presented at [Strata Data San Fransisco, 2019](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72656)
 

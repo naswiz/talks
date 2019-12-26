@@ -11,7 +11,7 @@
 
 ## Speakers:
 
-* [Syed Nasar (Cloudera)](https://conferences.oreilly.com/strata/strata-ca/public/schedule/speaker/184705)
+* [Syed Nasar (Cloudera)](https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/184705)
 
 ## Presented at Strata Data, New York September 2018
 
